@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fzaninotto/Faker.git",
-                "reference": "2495d3361ac1e9fc15608a1b33ec2dd41c56b2dc"
+                "reference": "1dc7404280b32ee661ea65606efcf792be6fc4ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/2495d3361ac1e9fc15608a1b33ec2dd41c56b2dc",
-                "reference": "2495d3361ac1e9fc15608a1b33ec2dd41c56b2dc",
+                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/1dc7404280b32ee661ea65606efcf792be6fc4ca",
+                "reference": "1dc7404280b32ee661ea65606efcf792be6fc4ca",
                 "shasum": ""
             },
             "require": {
@@ -56,7 +56,7 @@
                 "faker",
                 "fixtures"
             ],
-            "time": "2015-02-23 10:49:44"
+            "time": "2015-04-27 20:30:06"
         }
     ],
     "packages-dev": [],
